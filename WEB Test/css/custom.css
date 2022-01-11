@@ -9,11 +9,11 @@
 .btn-primary:hover {
   background-color: rgb(238, 155, 0);
 }
-.heroimg h1 {
+.hero h1 {
   font-family: "Poppins", sans-serif;
   font-weight: 700;
 }
-.heroimg p {
+.hero p {
   font-family: "Poppins", sans-serif;
   font-weight: 400;
 }
