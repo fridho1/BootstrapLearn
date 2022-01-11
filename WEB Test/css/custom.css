@@ -1,0 +1,19 @@
+.btn-primary {
+  background-color: orange;
+  border: 0;
+  padding: 15px 40px;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.btn-primary:hover {
+  background-color: rgb(238, 155, 0);
+}
+.heroimg h1 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+}
+.heroimg p {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+}
