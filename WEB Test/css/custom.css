@@ -9,11 +9,36 @@
 .btn-primary:hover {
   background-color: rgb(238, 155, 0);
 }
+
 .hero h1 {
   font-family: "Poppins", sans-serif;
   font-weight: 700;
 }
+
 .hero p {
   font-family: "Poppins", sans-serif;
   font-weight: 400;
+}
+
+.btn-outline-secondary {
+  font-weight: bold;
+  border: 1px solid rgb(170, 170, 170);
+  color: rgb(73, 73, 73);
+}
+
+.btn-outline-secondary:hover {
+  background-color: rgb(236, 235, 235);
+  color: rgb(73, 73, 73);
+}
+
+.btn-outline-success {
+  background-color: orange;
+  border: 0;
+  padding: 8px 20px;
+  font-weight: bold;
+  color: white;
+}
+
+.btn-outline-success:hover {
+  background-color: rgb(238, 155, 0); 
 }
