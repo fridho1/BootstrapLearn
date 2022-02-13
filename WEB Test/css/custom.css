@@ -22,13 +22,15 @@
 
 .btn-outline-secondary {
   font-weight: bold;
-  border: 1px solid rgb(170, 170, 170);
+  
   color: rgb(73, 73, 73);
+  
 }
 
 .btn-outline-secondary:hover {
   background-color: rgb(236, 235, 235);
   color: rgb(73, 73, 73);
+  border: 1px solid rgb(170, 170, 170);
 }
 
 .btn-outline-success {
@@ -41,4 +43,10 @@
 
 .btn-outline-success:hover {
   background-color: rgb(238, 155, 0); 
+}
+
+@media (max-width: 768px) {
+  .btn-outline-secondary {
+    margin-left: 0 !important;
+  }
 }
